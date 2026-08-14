@@ -1,0 +1,2 @@
+Tem que dar um git add/ git commit -m / git push.
+depois no repo clone a gnt dá um git pull. 
